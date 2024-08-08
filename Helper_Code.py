@@ -1,1 +1,2 @@
-curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+FIS Decom 
+Worked on decommission the FIS vendor application, which required expensive maintenance and enhancements from an external vendor, and to streamline operations by integrating its functionalities into existing systems.
