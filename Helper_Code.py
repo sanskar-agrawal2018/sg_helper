@@ -1,5 +1,30 @@
 import pandas as pd
 
+# Sample DataFrame
+data = {
+    'column_name': ['123', '456.789', 'abc', '789.123', '999']
+}
+df = pd.DataFrame(data)
+
+# Function to format number
+def format_number(value):
+    try:
+        # Check if the value can be converted to a float
+        number = float(value)
+        # Format the number to a specific format, e.g., with two decimal places
+        return f"{number:.2f}"
+    except ValueError:
+        # Return the original value if it's not a number
+        return value
+
+# Apply the function to the column
+df['column_name'] = df['column_name'].apply(format_number)
+
+print(df)
+
+i
+mport pandas as pd
+
 # Sample DataFrame with mixed data types
 data = {
     'A': [1.23e10, 4.56e-4, 7.89e3],  # Numeric column with scientific notation
