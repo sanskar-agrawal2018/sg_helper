@@ -35,5 +35,13 @@ User experience, including ease of use and response time.
 Innovation in leveraging AI for document understanding and information retrieval.
 
 
+Problem solved 
+
 Participants are encouraged to explore techniques like Natural Language Processing (NLP), Machine Learning, and Information Retrieval to build a robust and intelligent system.
+
+
+
+Phishing Email Protection: AI models can detect phishing attempts by analyzing patterns, suspicious links, and language cues. By learning from past threats, these models can predict and block potential phishing emails before they reach the inbox, safeguarding sensitive information.
+
+Easy Documentation Read: AI tools can streamline document reading by extracting key information, summarizing content, and even answering specific queries based on the document’s content. This reduces the time spent manually sifting through documents and ensures that important information is readily accessible.
 
