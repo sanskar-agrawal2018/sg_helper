@@ -1,20 +1,39 @@
-FIS Decom 
-Worked on decommission the FIS vendor application, which required expensive maintenance and enhancements from an external vendor.
-FIS Decom also provide streamline operations by integrating its functionalities into global tool like PSGL.
-Developed the solution to integrate seamlessly with existing systems like Nippon Torri and GMI Asia , ensuring compatibility and improving overall efficiency.
+Problem Statement: AI-Powered Document Query System
 
-Nippon Torri 
-Worked with the DFIN team to provide E2K for the new night session record from GMI must have involved a lot of coordination and technical expertise.
+In today's data-driven world, organizations deal with massive amounts of unstructured data, such as reports, contracts, research papers, and other documents. Extracting relevant information from this data is often a slow, manual process, leading to inefficiency and errors. We need an AI-powered solution that can automate this process and transform the way we interact with large document sets.
+
+Challenge:
+
+Build an intelligent document query system that leverages AI to allow users to upload large documents (PDFs, Word files, etc.) and query them in natural language. The system should be capable of understanding the context and semantics of the documents and provide accurate, relevant responses to user queries. The goal is to create a tool that enables easy, fast, and accurate information retrieval from complex documents.
+
+Key Features:
+
+1. Document Ingestion: The system should support uploading various document formats (PDF, Word, etc.) and efficiently process them.
 
 
-GMI ASIA 
-Worked on  GMI Asia project which helps in decommisioning of gold by directly providing accounting files for Japan, Australia, and Singapore to RDJ.
-Implemented the logic to generate GGLS101 from GMI-GLOF1 which required external vendor tools. 
-Develop a system for DFIN to automatically update the value like object code,default mapping value and suspence account which reduce manual efforts. 
-Implemented logic to automatically balance the CREC file, preventing RDJ rejection and ensuring ME integration in the PSGL system.
+2. Natural Language Query: Users should be able to query the system in natural language to find relevant information within the document.
 
-PSC Migration 
-Implemented Jenkins CI/CD pipelines to automate software delivery, ensuring seamless integration, testing, and deployment for the  projects.
-Automate the process to load data from an Oracle server into the database.
-Automated testing using Pytest to ensure reliability with every deployment
-Worked with a scheduler like UC4 for ETL transformations, which maintains a smooth workflow for the project
+
+3. Contextual Understanding: The AI model should understand the context of the document and the user’s query, going beyond keyword matching.
+
+
+4. Accurate and Relevant Responses: The system should provide precise responses or pointers to specific sections of the document based on the query.
+
+
+5. Multi-Document Support: The system should be capable of querying across multiple documents to provide consolidated answers.
+
+
+
+Evaluation Criteria:
+
+Accuracy and relevance of query responses.
+
+Performance and scalability in handling large or multiple documents.
+
+User experience, including ease of use and response time.
+
+Innovation in leveraging AI for document understanding and information retrieval.
+
+
+Participants are encouraged to explore techniques like Natural Language Processing (NLP), Machine Learning, and Information Retrieval to build a robust and intelligent system.
+
