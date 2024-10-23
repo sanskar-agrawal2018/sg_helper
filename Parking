@@ -1,20 +1,14 @@
-Title: Smart Parking Management System for Organizations
-Problem Statement: Managing parking spaces in organizations can be chaotic, inefficient, and frustrating for employees. Traditional methods often lead to conflicts over spots, underutilization of available space, and difficulties in reallocating spots based on changing needs. This inefficiency can cause delays, stress, and a negative impact on overall productivity.
 
-Problem Solved: The Smart Parking Management System leverages AI and IoT to automate the allocation and reallocation of parking spaces. By using sensors to monitor occupancy and an AI algorithm to dynamically assign spots based on user needs and availability, this system ensures optimal use of space. Employees receive real-time updates on their allocated spot through a mobile app, which also provides directions to the parking location.
+Here’s a more natural-sounding version:
 
-Benefits:
+Handled the Nippon Torri project solo, making sure night accounting runs smoothly for Japan.
 
-Efficiency: Reduces time spent searching for parking spots and minimizes delays.
+Took charge of PSC migration with Airflow, PySpark, OCP, and UC4, and got PowerBase ready for production.
 
-Fairness: Ensures equitable distribution of parking spaces based on need and availability.
+Managed the FIS Decommission, ensuring records flow properly for the HKG entity; currently in UAT.
 
-Real-time Updates: Provides up-to-date information on spot availability and directions.
+Worked on the GMI Asia project, prepping for the data lake migration.
 
-Improved Employee Satisfaction: Reduces stress and frustration, leading to a better work environment.
+Created a Jenkins setup with XL Deploy to make production deployments smoother and cut out database dependencies.
 
-Optimal Space Utilization: Maximizes the use of available parking, preventing under or overutilization.
-
-
-
-The Smart Parking Management System will automate the process of parking space management by using sensors to monitor occupancy and AI algorithms to dynamically assign parking spots based on user needs and availability. Employees will receive real-time updates on their allocated spots through a mobile application, which will also provide directions to the parking location.
+Joined company hackathons and competitions like chess and badminton organized by SG.
